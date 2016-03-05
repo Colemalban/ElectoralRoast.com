@@ -16,8 +16,11 @@ rubio = open("rubio.txt", "w")
 cruz = open("cruz.txt", "w")
 class listener(StreamListener):
 	def on_data(self, data):
+	
 		decoded = json.loads(str(data))
+		tweet = str(decoded['text'].encode("unicode_escape"))
 		if 'place' in decoded and decoded['place'] is not None:
+			
 			loc = decoded['place']['bounding_box']['coordinates'][0][0]
 			tweet = str(decoded['text'].encode("unicode_escape"))
 			tweet = tweet[1:]
@@ -38,4 +41,4 @@ class listener(StreamListener):
 auth = OAuthHandler(ckey, csecret)
 auth.set_access_token(atoken, asecret)
 twitterStream = Stream(auth, listener())
-twitterStream.filter(track={"Trump", "Sanders", "Bernie", "Clinton", "Rubio", "Cruz"})
+twitterStream.filter(languages=["en"], track={"Trump", "Sanders", "Bernie", "Clinton", "Rubio", "Cruz"})
