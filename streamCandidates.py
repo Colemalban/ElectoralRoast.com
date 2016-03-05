@@ -18,7 +18,6 @@ class listener(StreamListener):
 	def on_data(self, data):
 	
 		decoded = json.loads(str(data))
-		tweet = str(decoded['text'].encode("unicode_escape"))
 		if 'place' in decoded and decoded['place'] is not None:
 			
 			loc = decoded['place']['bounding_box']['coordinates'][0][0]
