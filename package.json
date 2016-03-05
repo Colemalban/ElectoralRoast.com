@@ -18,5 +18,6 @@
   "homepage": "https://github.com/Colemalban/UMBCHacks#readme",
   "dependencies": {
     "express": "^4.13.4"
-  }
+  },
+  "devDependencies": {}
 }
