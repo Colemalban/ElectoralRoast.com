@@ -1,0 +1,3 @@
+{"tweet": 'Phillips Cty #KSCaucus results Cruz 164, Trump 127, Rubio 57, Kasich 38, Carson 8, Bush 1, Fiorina 1 #ksleg', "coordinates": [-77.119401, 38.801826]"}
+{"tweet": 'tengo el pelo re rubio\\U0001f60d\\U0001f60d\\U0001f60d', "coordinates": [-48.585145, -27.221369]"}
+{"tweet": "OMG I don't like Rubio is Obama 2.0 and Cruz is Obama 2.0.1 &amp; guess what #iamproudlatino #businessowner  https://t.co/d0HC7Ilmnu", "coordinates": [-90.310298, 34.982924]"}
