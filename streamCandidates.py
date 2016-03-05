@@ -3,7 +3,7 @@ from tweepy import OAuthHandler
 from tweepy.streaming import StreamListener
 import json
 import unicodedata
-
+import emoji
 
 ckey = '9QNHTvlJIUm6nW0xZfCQrbv1c'
 csecret = 'H8poLEFkwNM0PoBxSvzHsF0c3l3PJEUI8DPvEJnWuKQOCw5BRJ'
@@ -16,13 +16,17 @@ rubio = open("rubio.txt", "w")
 cruz = open("cruz.txt", "w")
 class listener(StreamListener):
 	def on_data(self, data):
-	
+		
+		data = str(emoji.demojize(data))
+		
 		decoded = json.loads(str(data))
 		if 'place' in decoded and decoded['place'] is not None:
-			
 			loc = decoded['place']['bounding_box']['coordinates'][0][0]
-			tweet = str(decoded['text'].encode("unicode_escape"))
+			
+			tweet = str(emoji.demojize(decoded['text']).encode("unicode_escape"))
 			tweet = tweet[1:]
+			tweet.replace("\n"," . ")
+			print (tweet)
 			tweetLower = tweet.lower()
 			if("trump" in tweetLower):
 				trump.write('{"tweet": ' + tweet +', "coordinates": ' + str(loc) + '"}\n')

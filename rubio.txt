@@ -1,3 +1,8 @@
-{"tweet": 'Phillips Cty #KSCaucus results Cruz 164, Trump 127, Rubio 57, Kasich 38, Carson 8, Bush 1, Fiorina 1 #ksleg', "coordinates": [-77.119401, 38.801826]"}
-{"tweet": 'tengo el pelo re rubio\\U0001f60d\\U0001f60d\\U0001f60d', "coordinates": [-48.585145, -27.221369]"}
-{"tweet": "OMG I don't like Rubio is Obama 2.0 and Cruz is Obama 2.0.1 &amp; guess what #iamproudlatino #businessowner  https://t.co/d0HC7Ilmnu", "coordinates": [-90.310298, 34.982924]"}
+{"tweet": '@FoxNews @marcorubio Rubio is weak and a child', "coordinates": [-82.178311, 41.303092]"}
+{"tweet": '@guypbenson Cruz seems better organized than Rubio. Q is could Cruz bring out Huge R turnout in Nov &amp; win over enough Is &amp; Mod. Ds to win???', "coordinates": [-87.634643, 24.396308]"}
+{"tweet": '@FoxNews @marcorubio Trump is human face of NeoCon GOP policies and prejudice, even you Marco', "coordinates": [-123.208615, 43.988281]"}
+{"tweet": '@seanhannity @pimore than I can for Meghan Kelly,Bill Semmon &amp; Murdoch.Zoe Semmon employed by Rubio. For journalists very unethical practice', "coordinates": [-85.677333, 38.081329]"}
+{"tweet": "I predict Rubio vs Clinton because the fix is in folks, and I'm dam mad we get Obama2.", "coordinates": [-83.694776, 41.580375]"}
+{"tweet": '@pwhitt I voted Rubio but agree and am glad', "coordinates": [-94.724428, 37.367357]"}
+{"tweet": 'Worse than Rubio himself trying to act "inevitable" were his apologists, screaming for OTHERS to get out! Pitiful. https://t.co/MPhkSLtsSO', "coordinates": [-118.668404, 33.704538]"}
+{"tweet": '@SamanthaJoRoth @tedcruz @realDonaldTrump @marcorubio @JohnKasich Trump against the world', "coordinates": [-80.379889, 25.612589]"}

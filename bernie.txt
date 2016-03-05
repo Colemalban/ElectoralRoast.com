@@ -1,2 +1,3 @@
-{"tweet": "Bernie supporters.\\nTrump supporters.\\nAll united by God's great gift of seafood.", "coordinates": [-87.634643, 24.396308]"}
-{"tweet": '@Jaxx_Verax @Libertea2012 @BernieSanders https://t.co/pwwehZw6Zq', "coordinates": [-74.255641, 40.495865]"}
+{"tweet": 'Good to know Bernie sanders will have a job with Subaru when his campaign is over, you guys', "coordinates": [-93.329515, 44.889964]"}
+{"tweet": '"[Sanders] cannot be expected to carry a general election, if he can\\u2019t even inspire a large % of Democrats to vote for him." @stltoday', "coordinates": [-118.668404, 33.704538]"}
+{"tweet": '@SenSanders Bernie please look into these allegations surrounding Hilary https://t.co/OhA1dLBVBm if true, this is outrageous.', "coordinates": [-3.568747, 50.693458]"}

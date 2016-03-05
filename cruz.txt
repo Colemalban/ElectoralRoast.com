@@ -1,7 +1,15 @@
-{"tweet": '@imcrews @Roadstar05 @eye2winner \\nRememwhile Cruz fought amnesty Donald Trump was firing Dennis Rodman from the Apprentice \\nLet that sinkin', "coordinates": [-119.321696, 34.23444]"}
-{"tweet": '@FoxNews @JohnKasich Vote Cruz. Kasich will leave Ohio broke when he is done b/c of Obamacare!', "coordinates": [-83.827313, 41.505777]"}
-{"tweet": 'Phillips Cty #KSCaucus results Cruz 164, Trump 127, Rubio 57, Kasich 38, Carson 8, Bush 1, Fiorina 1 #ksleg', "coordinates": [-77.119401, 38.801826]"}
-{"tweet": '\\U0001f6a8#WeThePeople can rebuke the #WashingtonCartel with our Vote for #Cruz! \\U0001f1fa\\U0001f1f8\\U0001f1fa\\U0001f1f8\\U0001f1fa\\U0001f1f8 https://t.co/fuQBSUF8tG', "coordinates": [-80.442683, 25.992486]"}
-{"tweet": "OMG I don't like Rubio is Obama 2.0 and Cruz is Obama 2.0.1 &amp; guess what #iamproudlatino #businessowner  https://t.co/d0HC7Ilmnu", "coordinates": [-90.310298, 34.982924]"}
-{"tweet": '17% Cruz 49% Trump 26% https://t.co/qS7waoNhky', "coordinates": [-89.758895, 39.548591]"}
-{"tweet": '@BettyLusby he endorsed Cruz', "coordinates": [-81.549459, 28.485861]"}
+{"tweet": '@politico @tedcruz Trump against the world', "coordinates": [-80.379889, 25.612589]"}
+{"tweet": '@realDonaldTrump  marco is not a conservative pushing amnesty cruz is a conservative who cant unite the party', "coordinates": [-117.845301, 33.69418]"}
+{"tweet": "That's not a poll you want to win. That is an Establishment strong hold and Cruz says he is an outsider. https://t.co/YnnItGRoZQ", "coordinates": [-73.774415, 41.051924]"}
+{"tweet": '@guypbenson Cruz seems better organized than Rubio. Q is could Cruz bring out Huge R turnout in Nov &amp; win over enough Is &amp; Mod. Ds to win???', "coordinates": [-87.634643, 24.396308]"}
+{"tweet": '@mitchellvii @vandives nice. That does not help Cruz', "coordinates": [-80.519851, 39.719801]"}
+{"tweet": "@politico @tedcruz the stakes are very high. The Republicans aren't upset about the con Donald Trump , but the con he disrupts.", "coordinates": [-73.545122, 41.352784]"}
+{"tweet": 'Just FYI: #Cruz is FAR more dangerous than #Trump. Cruz actually believes what he says. FAR more ideological. #SuperSaturday', "coordinates": [-84.576827, 33.647503]"}
+{"tweet": '@Trump2016News @oddballsnovelty @brant_roger  Thinking Cruz will get it. Not many like the Gov.there. Very surprised what I just heard.', "coordinates": [-95.823268, 29.522325]"}
+{"tweet": '@RogerJStoneJr Or people like Cruz better.', "coordinates": [-79.176284, 42.959453]"}
+{"tweet": '@JimSharpe @tedcruz @realDonaldTrump Trump against the world', "coordinates": [-80.379889, 25.612589]"}
+{"tweet": 'If you look at Cruz wins (aside from Eskimo people) they are literally in a straight line up the map.. Talk about broad appeal...', "coordinates": [-88.473228, 30.144425]"}
+{"tweet": 'Ted Cruz always looks both happy and sad at the same time.  "I love lasagna but it\'s not what I ordered", his face says.', "coordinates": [-74.026675, 40.683935]"}
+{"tweet": '@CBSNews @tedcruz way to go mr cruz u can do it sir', "coordinates": [-106.645646, 25.837092]"}
+{"tweet": '@SamanthaJoRoth @tedcruz @realDonaldTrump @marcorubio @JohnKasich Trump against the world', "coordinates": [-80.379889, 25.612589]"}
+{"tweet": "I'm sick of people saying Cruz isn't as bad as Trump....like yes, yes he is!!! They are equally terrible!", "coordinates": [-96.880016, 32.316564]"}

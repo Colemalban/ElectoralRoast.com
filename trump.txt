@@ -1,13 +1,25 @@
-{"tweet": "Ryan: I'm surprised that I half assed my way to a regents diploma. Donald Trump must be surprised that he's almost nominated for president.", "coordinates": [-76.614549, 42.898722]"}
-{"tweet": "Bernie supporters.\\nTrump supporters.\\nAll united by God's great gift of seafood.", "coordinates": [-87.634643, 24.396308]"}
-{"tweet": "COME ON KANSAS.. What's going on. #Trump2016 #MakeAmericaGreatAgain #TrumpTrain #TrumpForPresident  https://t.co/3f5m8W6WB8", "coordinates": [-98.778559, 29.141956]"}
-{"tweet": 'Why is Trump skipping #CPAC2016 anyone Know?', "coordinates": [-85.605166, 30.355644]"}
-{"tweet": '@imcrews @Roadstar05 @eye2winner \\nRememwhile Cruz fought amnesty Donald Trump was firing Dennis Rodman from the Apprentice \\nLet that sinkin', "coordinates": [-119.321696, 34.23444]"}
-{"tweet": 'Phillips Cty #KSCaucus results Cruz 164, Trump 127, Rubio 57, Kasich 38, Carson 8, Bush 1, Fiorina 1 #ksleg', "coordinates": [-77.119401, 38.801826]"}
-{"tweet": '@evan7257 @PoliticalLaughs Trump is comfortable with the KKK supporting him.', "coordinates": [-79.639319, 43.403221]"}
-{"tweet": '@JewsForHillary The Nazis highacked Christianity to the extent where Jesus was Aryean and forgot about the Old Testament. Similar with Trump', "coordinates": [-86.912935, 33.294784]"}
-{"tweet": "@P0tterhead_394 nah I'd truly rather have you than Trump or Hillary", "coordinates": [-113.96381, 46.862638]"}
-{"tweet": 'Donald trump is getting quite scary now', "coordinates": [0.245667, 51.302478]"}
-{"tweet": '17% Cruz 49% Trump 26% https://t.co/qS7waoNhky', "coordinates": [-89.758895, 39.548591]"}
-{"tweet": "Heil Trump or even Drumpf? It just doesn't quite make it seriously does it? Does it? \\U0001f62c https://t.co/VXHiiH1tug", "coordinates": [-118.668404, 33.704538]"}
-{"tweet": '@ericbolling Like to see analysis of how many Obama voters from 2012 are supporting Trump. Afraid to do that at Fox?', "coordinates": [-83.67529, 36.540739]"}
+{"tweet": 'FOX setup GOP Pres Debate as if a show for Jerry Springer/Kardassian fans. Trump punched back, exposed their scheme:grinning_face: https://t.co/cD3mqz01IN', "coordinates": [-118.668404, 33.704538]"}
+{"tweet": "You know it's a good day when ever Trump supporters piss you off.  I'm voting for Trump!", "coordinates": [-91.51308, 36.970298]"}
+{"tweet": 'Mike Ditka: Obama is \\u2018the worst president we\\u2019ve ever had\\u2019\\nhttps://t.co/SqCnGna3CU IS TO FOLLOW IF TRUMP GETS ELECTED', "coordinates": [77.302126, 28.443981]"}
+{"tweet": '@RogerJStoneJr #Caucus = Where the views of #HardCore amount to same #Practice used by #Jurors to get #GuiltyVerdict. #FraudAtItsBest #Trump', "coordinates": [-84.321948, 33.752879]"}
+{"tweet": "@patswayzeee he's who everyone should really be worrying about but everyone is to worried about trump, wrong person smh", "coordinates": [-117.287533, 34.413411]"}
+{"tweet": 'https://t.co/dmo2qKPZZ9 for sale $1Million on Monday. Help a Veteran launch a project to help others. #TrumpTrain #Trump2016 #Trump', "coordinates": [-111.960775, 33.435864]"}
+{"tweet": '@politico @tedcruz Trump against the world', "coordinates": [-80.379889, 25.612589]"}
+{"tweet": '@realDonaldTrump  marco is not a conservative pushing amnesty cruz is a conservative who cant unite the party', "coordinates": [-117.845301, 33.69418]"}
+{"tweet": 'Imagine the irony if Trump splits the GOP badly enough to bring back the Whig Party.', "coordinates": [-105.109815, 39.614151]"}
+{"tweet": "@politico @tedcruz the stakes are very high. The Republicans aren't upset about the con Donald Trump , but the con he disrupts.", "coordinates": [-73.545122, 41.352784]"}
+{"tweet": 'Just FYI: #Cruz is FAR more dangerous than #Trump. Cruz actually believes what he says. FAR more ideological. #SuperSaturday', "coordinates": [-84.576827, 33.647503]"}
+{"tweet": '@FoxNews @marcorubio Trump is human face of NeoCon GOP policies and prejudice, even you Marco', "coordinates": [-123.208615, 43.988281]"}
+{"tweet": 'Just like The Reagan era Trump has those Good Democrats(you know the Dems that actually love this Country)cross over https://t.co/UAjeBhC6PK', "coordinates": [-74.687875, 40.547704]"}
+{"tweet": '@Trump2016News @oddballsnovelty @brant_roger  Thinking Cruz will get it. Not many like the Gov.there. Very surprised what I just heard.', "coordinates": [-95.823268, 29.522325]"}
+{"tweet": "@jimmystevens506 @TheSdavis You show me those that trump publishes.  Believe me he's using macros in the Drudge's ones.", "coordinates": [-100.613313, 18.367105]"}
+{"tweet": '@JimSharpe @tedcruz @realDonaldTrump Trump against the world', "coordinates": [-80.379889, 25.612589]"}
+{"tweet": '@z0mgItsHutch Heil Hit... Trump? https://t.co/7CtOKnpoiP', "coordinates": [-111.185677, 45.625349]"}
+{"tweet": '@seanmdav @MichelleFields I expected Trump to lose KS but not by such a high margin. Schlong comment at debate was devastating to him.', "coordinates": [-74.026675, 40.683935]"}
+{"tweet": 'All hail trump:person_raising_both_hands_in_celebration::emoji_modifier_fitzpatrick_type-1-2: https://t.co/w0CHGJvXxg', "coordinates": [-89.411055, 30.262464]"}
+{"tweet": "We're #hiring! Read about our latest #job opening here: Lounge Bartender ~ Champagne Lounge by Trump - https://t.co/VfS7ZUjpux #Hospitality", "coordinates": [-123.224215, 49.19854]"}
+{"tweet": "@richiee315 honestly I don't follow politics at all lmao i just think trump is an ass and I can't see him has anything more than a celebrity", "coordinates": [-75.172079, 39.76854]"}
+{"tweet": 'Bruh Donald Trump honestly geeks', "coordinates": [102.333681, 9.90553]"}
+{"tweet": '@ElysiaHeights how was Donald trump at your uni', "coordinates": [-122.234054, 47.860402]"}
+{"tweet": '@SamanthaJoRoth @tedcruz @realDonaldTrump @marcorubio @JohnKasich Trump against the world', "coordinates": [-80.379889, 25.612589]"}
+{"tweet": "I'm sick of people saying Cruz isn't as bad as Trump....like yes, yes he is!!! They are equally terrible!", "coordinates": [-96.880016, 32.316564]"}
