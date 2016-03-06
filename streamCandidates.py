@@ -25,7 +25,13 @@ class listener(StreamListener):
 			
 			tweet = str(emoji.demojize(decoded['text']).encode("unicode_escape"))
 			tweet = tweet[1:]
-			tweet.replace("\n"," . ")
+			tweet = tweet.strip("\n")
+			tweet = tweet.strip("\.")
+
+			tweet = tweet.replace("\n",". ")
+			tweet = tweet.replace("\'","'")
+
+			tweet = tweet.replace("\\n",". ")
 			print (tweet)
 			tweetLower = tweet.lower()
 			if("trump" in tweetLower):

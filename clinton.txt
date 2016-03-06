@@ -1,2 +1,2 @@
-{"tweet": '@superjim16 As expected, no blue dress at the Clinton Presidential Center. :thumbs_down_sign: They do touch on the impeachment process, but not much.', "coordinates": [-92.521595, 34.62595]"}
-{"tweet": "I predict Rubio vs Clinton because the fix is in folks, and I'm dam mad we get Obama2.", "coordinates": [-83.694776, 41.580375]"}
+{"tweet": 'Volunteers for Clinton, Sanders hard at work ahead of Utah caucuses https://t.co/QEMkcaNhUE https://t.co/3i3UnR9io6', "coordinates": [-112.038311, 40.699895]"}
+{"tweet": 'I look like a young Hillary Clinton who wears makeup', "coordinates": [-77.444552, 39.03328]"}

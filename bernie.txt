@@ -1,3 +1,4 @@
-{"tweet": 'Good to know Bernie sanders will have a job with Subaru when his campaign is over, you guys', "coordinates": [-93.329515, 44.889964]"}
-{"tweet": '"[Sanders] cannot be expected to carry a general election, if he can\\u2019t even inspire a large % of Democrats to vote for him." @stltoday', "coordinates": [-118.668404, 33.704538]"}
-{"tweet": '@SenSanders Bernie please look into these allegations surrounding Hilary https://t.co/OhA1dLBVBm if true, this is outrageous.', "coordinates": [-3.568747, 50.693458]"}
+{"tweet": 'Volunteers for Clinton, Sanders hard at work ahead of Utah caucuses https://t.co/QEMkcaNhUE https://t.co/3i3UnR9io6', "coordinates": [-112.038311, 40.699895]"}
+{"tweet": 'Bernie in Warren tonight!!! :grinning_face_with_smiling_eyes::smiling_face_with_open_mouth_and_smiling_eyes: https://t.co/9xIqlMATfU', "coordinates": [-83.086881, 42.447289]"}
+{"tweet": '@M2Meee @funkinatrix @CNN @TheYoungTurks , @democracynow , @AlterNet , and @commondreams are good alts for pro Bernie commentary / op-eds', "coordinates": [-122.452708, 40.456935]"}
+{"tweet": "#AlwaysTrump \. #Trump2016\. \. :fire:Please Make Bernie &amp; His Darn Kids Stop\. \. :fire:Grow-Up\. \. :fire:Here's Your Free Education https://t.co/VT16eQNEfA", "coordinates": [-90.418108, 41.696088]"}

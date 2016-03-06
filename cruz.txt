@@ -1,15 +1,6 @@
-{"tweet": '@politico @tedcruz Trump against the world', "coordinates": [-80.379889, 25.612589]"}
-{"tweet": '@realDonaldTrump  marco is not a conservative pushing amnesty cruz is a conservative who cant unite the party', "coordinates": [-117.845301, 33.69418]"}
-{"tweet": "That's not a poll you want to win. That is an Establishment strong hold and Cruz says he is an outsider. https://t.co/YnnItGRoZQ", "coordinates": [-73.774415, 41.051924]"}
-{"tweet": '@guypbenson Cruz seems better organized than Rubio. Q is could Cruz bring out Huge R turnout in Nov &amp; win over enough Is &amp; Mod. Ds to win???', "coordinates": [-87.634643, 24.396308]"}
-{"tweet": '@mitchellvii @vandives nice. That does not help Cruz', "coordinates": [-80.519851, 39.719801]"}
-{"tweet": "@politico @tedcruz the stakes are very high. The Republicans aren't upset about the con Donald Trump , but the con he disrupts.", "coordinates": [-73.545122, 41.352784]"}
-{"tweet": 'Just FYI: #Cruz is FAR more dangerous than #Trump. Cruz actually believes what he says. FAR more ideological. #SuperSaturday', "coordinates": [-84.576827, 33.647503]"}
-{"tweet": '@Trump2016News @oddballsnovelty @brant_roger  Thinking Cruz will get it. Not many like the Gov.there. Very surprised what I just heard.', "coordinates": [-95.823268, 29.522325]"}
-{"tweet": '@RogerJStoneJr Or people like Cruz better.', "coordinates": [-79.176284, 42.959453]"}
-{"tweet": '@JimSharpe @tedcruz @realDonaldTrump Trump against the world', "coordinates": [-80.379889, 25.612589]"}
-{"tweet": 'If you look at Cruz wins (aside from Eskimo people) they are literally in a straight line up the map.. Talk about broad appeal...', "coordinates": [-88.473228, 30.144425]"}
-{"tweet": 'Ted Cruz always looks both happy and sad at the same time.  "I love lasagna but it\'s not what I ordered", his face says.', "coordinates": [-74.026675, 40.683935]"}
-{"tweet": '@CBSNews @tedcruz way to go mr cruz u can do it sir', "coordinates": [-106.645646, 25.837092]"}
-{"tweet": '@SamanthaJoRoth @tedcruz @realDonaldTrump @marcorubio @JohnKasich Trump against the world', "coordinates": [-80.379889, 25.612589]"}
-{"tweet": "I'm sick of people saying Cruz isn't as bad as Trump....like yes, yes he is!!! They are equally terrible!", "coordinates": [-96.880016, 32.316564]"}
+{"tweet": 'Watch #tytlive for all the politics w/out corporate bias. Great coverage, guys! Cruz or Trump.. Sh#t or go blind.', "coordinates": [-122.514926, 37.708075]"}
+{"tweet": '@BillKristol Cruz excels where there are corn fields and caucuses.', "coordinates": [-79.639319, 43.403221]"}
+{"tweet": '@stephenkruiser: Not when you understand their agenda. They hate Sen.Cruz because he would NOT do their bidding, STOOD ON PRINCIPLES.', "coordinates": [-121.759721, 42.141017]"}
+{"tweet": 'Yes Yes Yes...look I think Rubio took a hit by taking the fight to Trump and I am fine with that if Cruz wins nom https://t.co/0UE8ZY6BGR', "coordinates": [-80.177525, 26.879058]"}
+{"tweet": '@LukeRussert Both Cruz and Trump would destroy Hillary.', "coordinates": [-97.928935, 30.127892]"}
+{"tweet": "@Moira1987 @PoliticalLaughs @BlueBoxDave... Cruz? He wasn't capable to do anything against the #TrumpTrain but the dirty GOP elite probably:thumbs_down_sign:", "coordinates": [-77.444552, 39.03328]"}
