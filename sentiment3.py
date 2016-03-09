@@ -103,7 +103,7 @@ while 1:
         data["tweet"] = decoded["tweet"]
         data["who"] = "cruz"
         print("Hei, man please I tried")
-        db.post('/Tweets/Cruz', data)
+        db.post('/Cruz', data)
         #db.put('/Tweets', quote(str(data)), None)  
     elif lineBernie != None and len(lineBernie) != 0:
         print(lineBernie)
@@ -116,7 +116,7 @@ while 1:
         data["tweet"] = decoded["tweet"]
         data["who"] = "bernie"
         print("Hei, man please I tried")
-        db.post('/Tweets/Bernie', data)#, None)
+        db.post('/Bernie', data)#, None)
         #db.put('/Tweets', quote(str(data)), None)  
     elif lineClinton != None and len(lineClinton) != 0:
         print(lineClinton)
@@ -129,7 +129,7 @@ while 1:
         data["tweet"] = decoded["tweet"]
         data["who"] = "clinton"
         print("Hei, man please I tried")
-        db.post('/Tweets/Clinton', data)#, None)
+        db.post('/Clinton', data)#, None)
         #db.put('/Tweets', quote(str(data)), None)  
     elif lineTrump != None and len(lineTrump) != 0:
         print(lineTrump)
@@ -142,7 +142,7 @@ while 1:
         data["tweet"] = decoded["tweet"]
         data["who"] = "trump"
         print("Hei, man please I tried")
-        db.post('/Tweets/Trump', data)#), None)
+        db.post('/Trump', data)#), None)
         #db.put('/Tweets', quote(str(data)), None)
     elif lineRubio != None and len(lineRubio) != 0:
         print(lineRubio)
@@ -155,7 +155,7 @@ while 1:
         data["tweet"] = decoded["tweet"]
         data["who"] = "rubio"
         print("Hei, man please I tried")
-        db.post('/Tweets/Rubio', data)#, None)
+        db.post('/Rubio', data)#, None)
     else:
         time.sleep(1)
         cruz.seek(whereCruz)
