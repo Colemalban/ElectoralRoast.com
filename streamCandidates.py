@@ -9,11 +9,11 @@ ckey = '9QNHTvlJIUm6nW0xZfCQrbv1c'
 csecret = 'H8poLEFkwNM0PoBxSvzHsF0c3l3PJEUI8DPvEJnWuKQOCw5BRJ'
 atoken = '199110460-MbCtBAwLlxDd54qiV73uebJglTPTfAYZ6Z8zDCYo'
 asecret = 'MNLqjreqgEwihGYgqkvexJ0JZlgNbAltfyfuwDHaOyPMX'
-trump = open("trump.txt", "w")
-clinton = open("clinton.txt", "w")
-bernie = open("bernie.txt", "w")
-rubio = open("rubio.txt", "w")
-cruz = open("cruz.txt", "w")
+trump = open("trump.txt", "a")
+clinton = open("clinton.txt", "a")
+bernie = open("bernie.txt", "a")
+rubio = open("rubio.txt", "a")
+cruz = open("cruz.txt", "a")
 class listener(StreamListener):
 	def on_data(self, data):
 		
@@ -29,21 +29,28 @@ class listener(StreamListener):
 			tweet = tweet.strip("\.")
 
 			tweet = tweet.replace("\n",". ")
-			tweet = tweet.replace("\'","'")
-
+			tweet = tweet.replace("\\'","'")
+			tweet = tweet.replace("\\","")
+			tweet = tweet.replace("\\\.",".")
+			tweet = tweet.replace("\"", "'")
 			tweet = tweet.replace("\\n",". ")
 			print (tweet)
 			tweetLower = tweet.lower()
 			if("trump" in tweetLower):
-				trump.write('{"tweet": ' + tweet +', "coordinates": ' + str(loc) + '"}\n')
+				trump.write('{"tweet": "' + tweet +'", "coordinates": ' + str(loc) + '}\n')
+				trump.flush()
 			if("sanders" in tweetLower or "bernie" in tweet.lower()):
-				bernie.write('{"tweet": ' + tweet +', "coordinates": ' + str(loc) + '"}\n')
+				bernie.write('{"tweet": "' + tweet +'", "coordinates": ' + str(loc) + '}\n')
+				bernie.flush()
 			if("clinton" in tweetLower):
-				clinton.write('{"tweet": ' + tweet +', "coordinates": ' + str(loc) + '"}\n')
+				clinton.write('{"tweet": "' + tweet +'", "coordinates": ' + str(loc) + '}\n')
+				clinton.flush()
 			if("rubio" in tweetLower):
-				rubio.write('{"tweet": ' + tweet +', "coordinates": ' + str(loc) + '"}\n')
+				rubio.write('{"tweet": "' + tweet +'", "coordinates": ' + str(loc) + '}\n')
+				rubio.flush()
 			if("cruz" in tweetLower):
-				cruz.write('{"tweet": ' + tweet +', "coordinates": ' + str(loc) + '"}\n')
+				cruz.write('{"tweet": "' + tweet +'", "coordinates": ' + str(loc) + '}\n')
+				cruz.flush()
 		return True
 	def on_error(self, status):
 		print (status)
